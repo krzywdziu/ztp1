@@ -1,0 +1,7 @@
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.AssemblyInfo.cs
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.RazorAssemblyInfo.cache
+C:\Users\Patryk\source\repos\Projekt1\Projekt1\obj\Debug\net8.0\Projekt1.RazorAssemblyInfo.cs
